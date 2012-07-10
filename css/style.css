@@ -1,0 +1,39 @@
+/*
+ * General
+ */
+html *{
+	font-family: arial, sans.serif;
+}
+body{
+	 background-image: url(../images/background.jpg);
+	 background-repeat: repeat-x;
+	 background-color: #FFFFFF;
+}
+a, a:link, a:visited ,a:hover  {
+	color: black;
+}
+a:link, a:visited { 
+	text-decoration: none;
+}
+a:hover { 
+	text-decoration: underline;
+}
+/*
+ * 
+ */
+#container{
+	margin:50px auto auto auto;
+	width:500px;
+	
+}
+#foot{
+	text-align: center;
+}
+.eslogan{
+ 
+    font-size: 20px; 
+	text-align: right;
+    
+}
+
+
